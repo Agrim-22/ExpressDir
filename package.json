@@ -1,0 +1,19 @@
+{
+  "name": "expressdir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agrim Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.21.0",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
